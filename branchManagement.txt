@@ -1,0 +1,5 @@
+git branch : create or list branches for repo., -d to delete a branch
+git checkout x : switch to the branch
+git merge x : merges branch x with current branch
+
+*with eclipse, any git bash changes with update live to eclipse
